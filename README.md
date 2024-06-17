@@ -5,3 +5,4 @@ DESCRIPTION The director of a leading organization wants to compare the sales be
 Objective: Help the organization by creating a dashboard to visualize the sales comparison between two selected regions.
 Datasets: Sample Superstore
 
+Tableau public dashboard link : https://public.tableau.com/app/profile/tushar.parab4936/viz/SalescomparisonbyRegion_17148295776400/Dashboard1?publish=yes
