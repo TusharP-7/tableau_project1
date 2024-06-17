@@ -70,6 +70,23 @@
 
 <p><strong>Project Link:</strong> <a href="https://public.tableau.com/app/profile/tushar.parab4936/viz/SalescomparisonbyRegion_17148295776400/Dashboard1?publish=yes" target="_blank">View Dashboard</a></p>
 
+<h1>Dashboard Insights</h1>
+
+<p><strong>Customer Base & Market Presence:</strong> The Central region has a significantly larger customer base with 829 customers compared to 642 in the East region, indicating a stronger market presence.</p>
+
+<p><strong>Order Volume:</strong> The Central region also has a higher number of orders at 1,807, suggesting higher sales activity compared to 1,683 orders in the East.</p>
+
+<p><strong>Product Variety:</strong> Despite fewer customers and orders, the East region has more products in sales (3.6K) than the Central (3.5K), which could point to a wider product range or more frequent stock turnover.</p>
+
+<p><strong>Spending Per Transaction:</strong> The average sale per order is higher in the East ($242) than in the Central ($238), implying that customers in the East may be purchasing more expensive items or larger quantities per order.</p>
+
+<p><strong>Top-Selling Categories:</strong> Phones and Chairs are consistently prominent across months in both regions, indicating they are likely top-selling products.</p>
+
+<p><strong>Seasonal Trends:</strong> Certain product categories like Appliances show peaks at specific times of the year, suggesting seasonal demand fluctuations.</p>
+
+<p><strong>Sales Fluctuations:</strong> There are noticeable fluctuations in average sale per order within sub-categories, which could be influenced by promotional activities or shifts in consumer purchasing patterns.</p>
+
+<p>These insights can inform targeted sales strategies, inventory management, and marketing campaigns to capitalize on regional strengths and opportunities for growth.</p>
 </body>
 </html>
 
