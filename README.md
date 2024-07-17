@@ -7,7 +7,8 @@
 <body>
 
 <h1>Comparison of Region Based on Sales - Tableau Project</h1>
-
+<img src = "https://github.com/TusharP-7/tableau_project1/blob/main/Dashboard.JPG" alt = "Tableau dashboard">
+<br>
 <p><strong>Description:</strong> The director of a leading organization wants to compare the sales between two regions. The upper management seeks to visualize the sales data using a dashboard to understand performance and suggest improvements.</p>
 
 <p><strong>Objective:</strong> Create a dashboard to visualize the sales comparison between two selected regions.</p>
