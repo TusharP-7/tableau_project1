@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Region Sales Comparison - Tableau Project</title>
+
 </head>
 
 <body>
